@@ -15,5 +15,5 @@ comprises 500 labeled samples for each of the nine distinct hand symbols, ensuri
 balanced representation across all gestures. 
 
 Use
-git clone https://github.com/PurpleHyacinth120/Hand-Sign-Recognition
+git clone https://github.com/nishant-1729/Hand-Sign-Recognition
 to setup the repository locally.
